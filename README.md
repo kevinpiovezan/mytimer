@@ -1,1 +1,1 @@
-# timer
+# My Timer
