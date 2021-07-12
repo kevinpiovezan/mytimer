@@ -1,11 +1,52 @@
+
 # My Timer
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+## I've made a simple timer tool with JS to be used on your browser, please enjoy
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+<h4 align="center"> 
+  🏁 My Timer, done! 🏁
+</h4>
+
+### Features
+
+- [x] Start timer
+- [x] Pause timer
+- [x] Stop timer
+- [x] Restart timer
+
+
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4eb5920-917a-437a-affe-0c152060e00c/deploy-status)](https://app.netlify.com/sites/mytimerkcp/deploys)
+<br>
+You are welcome to test it on this link:https://mytimerkcp.netlify.app
+
 Here is a quick video of the usage, as I said, it's simple, but useful.
-# Technologies used on this project:
-![html5-3](https://user-images.githubusercontent.com/85972685/124214247-4cb24d00-dac8-11eb-8fe2-3545fd6f29b7.png)
-![css3](https://user-images.githubusercontent.com/85972685/124214262-51770100-dac8-11eb-9fab-9cc861f0e7bd.png)
-![javascript-2](https://user-images.githubusercontent.com/85972685/124213912-c564d980-dac7-11eb-86cf-56b0d400be7a.png)
 
 https://user-images.githubusercontent.com/85972685/124212727-d9a7d700-dac5-11eb-8568-76ad5596141f.mov
 
-I left the link on netlify to use it on the description section.
-Thanks for taking your time to come here.
+
+## Technologies used on this project:
+- [HTML](https://html.com)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JAVASCRIPT](https://www.javascript.com)
+
+### Author
+---
+
+<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/85972685/125216431-89ceca00-e294-11eb-8256-7dd40dcd023e.jpg" width="100px;" alt=""/>
+
+ <br />
+ <sub><b>Kevin Piovezan</b></sub></a>
+
+
+Made with ❤️ by Kevin Piovezan 👋🏽 Get in contact!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-c-piovezan/)](https://www.linkedin.com/in/kevin-c-piovezan/) 
+[![Gmail Badge](https://img.shields.io/badge/-kevinpiovezan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinpiovezan@gmail.com)](mailto:kevinpiovezan@gmail.com)
+
